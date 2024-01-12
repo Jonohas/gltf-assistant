@@ -1,2 +1,1 @@
-GDAL == "$(gdal-config --version).*"
-numpy
+numpy >= 1.26.3
