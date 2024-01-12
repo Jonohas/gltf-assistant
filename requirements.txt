@@ -1,0 +1,2 @@
+GDAL == "$(gdal-config --version).*"
+numpy
